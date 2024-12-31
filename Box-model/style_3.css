@@ -1,0 +1,14 @@
+.box1{
+    width: 200px;
+    border: 2px solid lightblue;
+    padding: 10px;
+    margin-right: 20px;
+    display: inline-block;
+}
+.box2{
+    width: 200px;
+    border: 2px solid lightblue;
+    padding: 10px;
+    margin-left: 20px;
+    display: inline-block;
+}
